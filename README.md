@@ -6,7 +6,7 @@
 
 <sup>1</sup>Imperial College London &nbsp;&nbsp; <sup>2</sup>Huawei Noah's Ark Lab, UK
 
-[![Paper](https://img.shields.io/badge/arXiv-Paper-red)]()
+[![Paper](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/2603.12533)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://yuuraa.github.io/papers/choi2026egovqa/)
 [![Dataset](https://img.shields.io/badge/🤗-Dataset-yellow)]()
 [![Model](https://img.shields.io/badge/🤗-Model-green)]()
